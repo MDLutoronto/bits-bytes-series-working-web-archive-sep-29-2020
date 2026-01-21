@@ -1,13 +1,22 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Bits and Bytes Series: Working with Web Archive Data (Sept. 29, 2020)"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Bits and Bytes Series: Working with Web Archive Data (Sept. 29, 2020)
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+This page provides a presentation on **Working with Web Archive Data** as part of the Bits and Bytes Webinar Series hosted by the Map \& Data Library that features presentations and demonstrations on data\-related topics and tools, such as web archives, visualization, GIS and statistics.
+
+**Presentation Description:**
+
+*September 29, 2020, 2:00pm, presented by Nich Worby*  
+Web archives, like the Internet Archive's [Wayback Machine](https://archive.org/web/), have existed for almost as long as the World Wide Web. This presentation will introduce tapping into this rich but complex data source. Participants will get an overview of major web archive sources, the WARC file format, methods of accessing web archived data, as well as a demonstration of tools for analytical tasks like extracting network graphs of links, extracting images, and filtering web page text for further analysis.
+
+[Link to Slides](https://tinyurl.com/yyjvn5vq)  
+[Link to Recording \- 55:40](https://play.library.utoronto.ca/da67453919843cb832d8950952961d5f)
+
+Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
+
+Technique: [Searching for maps and data](/technique/searching-maps-and-data), [Extracting data](/technique/extracting-data)**Date Created:** 2025\-02\-13**Updated:** 2025\-02\-14
