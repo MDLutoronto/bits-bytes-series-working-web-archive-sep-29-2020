@@ -3,6 +3,9 @@ title: "Bits and Bytes Series: Working with Web Archive Data (Sept. 29, 2020)"
 layout: "home"
 description: "This page provides a presentation on Working with Web Archive Data as part of the Bits and Bytes Webinar Series hosted by the Map & Data Library that features presentations and demonstrations on data-related topics and tools, such as web archives, visualization, GIS and statistics."
 created_date: 2025-02-13
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 permalink: "/"  #! Remove this if not the homepage
 ---
 
