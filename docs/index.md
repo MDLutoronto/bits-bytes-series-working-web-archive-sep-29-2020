@@ -22,5 +22,3 @@ Web archives, like the Internet Archive's [Wayback Machine](https://archive.org/
 [Link to Recording - 55:40](https://play.library.utoronto.ca/da67453919843cb832d8950952961d5f)
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
-
-Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data), [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data)
