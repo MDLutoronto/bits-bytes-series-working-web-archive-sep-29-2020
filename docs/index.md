@@ -33,4 +33,4 @@ Web archives, like the Internet Archive's [Wayback Machine](https://archive.org/
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
 
-Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data)
+Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | Series: [Bits and Bytes](https://mdlutoronto.github.io/tutorials-search/?series=Bits+and+Bytes)
