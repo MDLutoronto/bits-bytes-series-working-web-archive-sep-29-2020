@@ -24,6 +24,6 @@ Web archives, like the Internet Archive's [Wayback Machine](https://archive.org/
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/da67453919843cb832d8950952961d5f" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
+Please visit the [Bits and Bytes webpage](https://mdlutoronto.github.io/tutorials-search/?series=Bits+and+Bytes) for more presentations on various tools and topics.
 
 **Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data), [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Series:** [Bits and Bytes](https://mdlutoronto.github.io/tutorials-search/?series=Bits+and+Bytes)
